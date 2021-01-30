@@ -8,6 +8,7 @@ Final Assignment
 * Rodrigo Ramírez
 * Marcelo Martínez
 * Juan Carlos Hernández
+* Gino Quispe Calixto
 
 (Spanish)
 
